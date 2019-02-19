@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='amznscrp',
+    name='pyuseragents',
     url='https://github.com/jenslaufer/pyuseragents',
     author='Jens Laufer',
     author_email='jenslaufer@gmail.com',
